@@ -12,8 +12,8 @@
 </div>
 
 ## Preview
+https://github.com/banjaminh/virtual-tackle-box/assets/128344939/1e41010e-7431-4fa5-a525-256a85b7bffc
 
-https://github.com/virtual-tackle-box/front-end-vtb/assets/100454651/889ef4c5-7d4d-499a-817f-cbde63d014c5
 
 ## Installation
 These instructions will help you set up and run the VTB app on your iOS device or simulator.
@@ -35,6 +35,10 @@ These instructions will help you set up and run the VTB app on your iOS device o
    ```bash
    git clone git@github.com:virtual-tackle-box/front-end-vtb.git
    cd front-end-vtb
+
+
+
+
    npm install
    ```
 2. To run the app on an iOS device: <br/>run `npm start` and use your iOS device to scan the QR code displayed in the terminal
